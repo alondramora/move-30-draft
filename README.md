@@ -3,7 +3,7 @@ Move 30 is an journaling app made to encourage folks to get movement/ physical a
 
 **Link to project:** Coming soon
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](public/imgs/wireframepic.webp)
 
 ## How It's Made:
 
