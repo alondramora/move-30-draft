@@ -1,20 +1,16 @@
-# Install
+# Move 30
+Move 30 is an journaling app made to encourage folks to get movement/ physical activity in for at leasr 30 minutes a day.
 
-`npm install`
+**Link to project:** Coming soon
 
----
+![alt tag](http://placecorgi.com/1200/650)
 
-# Things to add
+## How It's Made:
 
-- Create a `.env` file in config folder and add the following as `key = value`
-  - PORT = 2121 (can be any port example: 3000)
-  - DB_STRING = `your database URI`
-  - CLOUD_NAME = `your cloudinary cloud name`
-  - API_KEY = `your cloudinary api key`
-  - API_SECRET = `your cloudinary api secret`
+**Tech used:** HTML, CSS, JavaScript, EJS, Node, Express
 
----
+Users can create posts documenting their movement of the day and see others posts as well.
 
-# Run
+## Optimizations ##
 
-`npm start`
+## Lessons Learned:
