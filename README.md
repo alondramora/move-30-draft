@@ -20,6 +20,6 @@ password: demo1demo1
 username: demo2@demo.com
 password: demo2demo2
 
-## Optimizations ##
+## Optimizations: ##
 
 ## Lessons Learned:
