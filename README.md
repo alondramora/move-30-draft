@@ -3,6 +3,15 @@ Move 30 is an journaling app made to encourage folks to get movement/ physical a
 
 **Link to project:** Coming soon
 
+## Demo user logins:
+User 1:
+username: demo1@demo.com
+password: demo1demo1
+
+User 2:
+username: demo2@demo.com
+password: demo2demo2
+
 ![alt tag](public/imgs/wireframepic.webp)
 
 ## How It's Made:
