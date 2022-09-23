@@ -1,5 +1,5 @@
 # Move 30
-Move 30 is an journaling app made to encourage folks to get movement/ physical activity in for at leasr 30 minutes a day.
+Move 30 is an journaling app made to encourage folks to get movement/ physical activity in for at least 30 minutes a day.
 
 **Link to project:** Coming soon
 
